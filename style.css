@@ -21,7 +21,7 @@ img {
     display: block;
     width: 100%;
     box-shadow: 0 20px 40px -20px #333;
-    padding: 4rem;
+    padding: min(4rem, 2vw);
     background-color: white;
 }
 
